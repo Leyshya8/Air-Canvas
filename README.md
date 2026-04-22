@@ -108,7 +108,6 @@ python air-canvas.py
 Air-Canvas/
 ├── air-canvas.py       # Main application entry point
 ├── README.md           # Project documentation
-└── docs/               # (Optional) Screenshots and demo assets
 ```
 
 ---
