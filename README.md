@@ -11,12 +11,6 @@ Air Canvas is a computer vision application that transforms a standard webcam in
 
 ---
 
-## 📸 Demo
-
-> *(Add a GIF or screenshot here — e.g., `docs/demo.gif`)*
-
----
-
 ## 📋 Table of Contents
 
 - [Features](#features)
